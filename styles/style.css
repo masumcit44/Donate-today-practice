@@ -170,8 +170,9 @@ main{
   background-color: #D9D9D9;
   padding: 12px 20px;
   
+  
 }
-.search-bar  button{
+.search-bar  input[type=button]{
   background-color: #ff5959;
   border: 0;
   border-radius: 2px;
